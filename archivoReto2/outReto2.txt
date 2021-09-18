@@ -1,0 +1,24 @@
+Breakpoint 1 at 0x401000
+Breakpoint 2 at 0x4010a7
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000000000401000 in _start ()
+
+Breakpoint 2, 0x00000000004010a7 in Suma ()
+r8             0x78                120
+r9             0x18                24
+r10            0x1                 1
+[Inferior 1 (process 5466) exited normally]
+<<<---FIN--->>>
+Breakpoint 1 at 0x401000
+Breakpoint 2 at 0x4010a7
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000000000401000 in _start ()
+
+Breakpoint 2, 0x00000000004010a7 in Suma ()
+r8             0x78                120
+r9             0x18                24
+r10            0x1                 1
+[Inferior 1 (process 5563) exited normally]
+<<<---FIN--->>>
