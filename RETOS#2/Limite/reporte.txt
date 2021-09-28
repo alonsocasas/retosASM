@@ -1,0 +1,287 @@
+limite.gdb:15: Error in sourced command file:
+limiteASM: No such file or directory.
+limite.gdb:15: Error in sourced command file:
+limiteASM: No such file or directory.
+limite.gdb:15: Error in sourced command file:
+limiteASM: No such file or directory.
+Breakpoint 1 at 0x1170
+Breakpoint 2 at 0x1185
+Breakpoint 3 at 0x11a4
+Breakpoint 4 at 0x11ab
+Breakpoint 5 at 0x11b8
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000555555555170 in limiteASM ()
+
+Breakpoint 2, 0x0000555555555185 in valor_de_N ()
+0x000055555555518a in valor_de_N ()
+$1 = 5
+
+Breakpoint 3, 0x00005555555551a4 in valor_1mas1entre ()
+$2 = 1.20000005
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$3 = 1.20000005
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$4 = 1.44000006
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$5 = 1.72800016
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$6 = 2.07360029
+
+Breakpoint 5, 0x00005555555551b8 in done ()
+<<<---FIN--->>>
+A debugging session is active.
+
+	Inferior 1 [process 3789] will be killed.
+
+Quit anyway? (y or n) [answered Y; input not from terminal]
+Breakpoint 1 at 0x1170
+Breakpoint 2 at 0x1185
+Breakpoint 3 at 0x11a4
+Breakpoint 4 at 0x11ab
+Breakpoint 5 at 0x11b8
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000555555555170 in limiteASM ()
+
+Breakpoint 2, 0x0000555555555185 in valor_de_N ()
+0x000055555555518a in valor_de_N ()
+$1 = 5
+
+Breakpoint 3, 0x00005555555551a4 in valor_1mas1entre ()
+$2 = 1.20000005
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$3 = 1.20000005
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$4 = 1.44000006
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$5 = 1.72800016
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$6 = 2.07360029
+
+Breakpoint 5, 0x00005555555551b8 in done ()
+[Inferior 1 (process 3932) exited normally]
+limite.gdb:62: Error in sourced command file:
+No registers.
+Breakpoint 1 at 0x1170
+Breakpoint 2 at 0x1185
+Breakpoint 3 at 0x11a4
+Breakpoint 4 at 0x11ab
+Breakpoint 5 at 0x11b8
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000555555555170 in limiteASM ()
+
+Breakpoint 2, 0x0000555555555185 in valor_de_N ()
+0x000055555555518a in valor_de_N ()
+$1 = 5
+
+Breakpoint 3, 0x00005555555551a4 in valor_1mas1entre ()
+$2 = 1.20000005
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$3 = 1.20000005
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$4 = 1.44000006
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$5 = 1.72800016
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$6 = 2.07360029
+
+Breakpoint 5, 0x00005555555551b8 in done ()
+[Inferior 1 (process 4091) exited normally]
+limite.gdb:62: Error in sourced command file:
+The program is not being run.
+Breakpoint 1 at 0x1170
+Breakpoint 2 at 0x1185
+Breakpoint 3 at 0x11a4
+Breakpoint 4 at 0x11ab
+Breakpoint 5 at 0x11b8
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000555555555170 in limiteASM ()
+
+Breakpoint 2, 0x0000555555555185 in valor_de_N ()
+0x000055555555518a in valor_de_N ()
+$1 = 5
+
+Breakpoint 3, 0x00005555555551a4 in valor_1mas1entre ()
+$2 = 1.20000005
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$3 = 1.20000005
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$4 = 1.44000006
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$5 = 1.72800016
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$6 = 2.07360029
+
+Breakpoint 5, 0x00005555555551b8 in done ()
+<<<---FIN--->>>
+A debugging session is active.
+
+	Inferior 1 [process 4204] will be killed.
+
+Quit anyway? (y or n) [answered Y; input not from terminal]
+Breakpoint 1 at 0x1170
+Breakpoint 2 at 0x1185
+Breakpoint 3 at 0x11a4
+Breakpoint 4 at 0x11ab
+Breakpoint 5 at 0x11b8
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000555555555170 in limiteASM ()
+
+Breakpoint 2, 0x0000555555555185 in valor_de_N ()
+0x000055555555518a in valor_de_N ()
+$1 = 5
+
+Breakpoint 3, 0x00005555555551a4 in valor_1mas1entre ()
+$2 = 1.20000005
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$3 = 1.20000005
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$4 = 1.44000006
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$5 = 1.72800016
+
+Breakpoint 4, 0x00005555555551ab in limite ()
+$6 = 2.07360029
+
+Breakpoint 5, 0x00005555555551b8 in done ()
+$7 = 2.48832035
+<<<---FIN--->>>
+A debugging session is active.
+
+	Inferior 1 [process 4317] will be killed.
+
+Quit anyway? (y or n) [answered Y; input not from terminal]
+Breakpoint 1 at 0x1180
+Breakpoint 2 at 0x1195
+Breakpoint 3 at 0x11b4
+Breakpoint 4 at 0x11bb
+Breakpoint 5 at 0x11c8
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000555555555180 in limiteASM ()
+
+Breakpoint 2, 0x0000555555555195 in valor_de_N ()
+0x000055555555519a in valor_de_N ()
+$1 = 30
+
+Breakpoint 3, 0x00005555555551b4 in valor_1mas1entre ()
+$2 = 1.0333333
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$3 = 1.0333333
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$4 = 1.06777775
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$5 = 1.10337031
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$6 = 1.14014924
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$7 = 1.17815423
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$8 = 1.21742594
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$9 = 1.25800681
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$10 = 1.29994035
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$11 = 1.34327161
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$12 = 1.38804734
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$13 = 1.43431556
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$14 = 1.482126
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$15 = 1.53153014
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$16 = 1.58258104
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$17 = 1.63533366
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$18 = 1.68984473
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$19 = 1.74617279
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$20 = 1.80437851
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$21 = 1.86452436
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$22 = 1.92667508
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$23 = 1.99089754
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$24 = 2.05726075
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$25 = 2.12583613
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$26 = 2.19669724
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$27 = 2.26992035
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$28 = 2.34558439
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$29 = 2.42377043
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$30 = 2.50456262
+
+Breakpoint 4, 0x00005555555551bb in limite ()
+$31 = 2.58804798
+
+Breakpoint 5, 0x00005555555551c8 in done ()
+$32 = 2.67431617
+<<<---FIN--->>>
+A debugging session is active.
+
+	Inferior 1 [process 7229] will be killed.
+
+Quit anyway? (y or n) [answered Y; input not from terminal]
