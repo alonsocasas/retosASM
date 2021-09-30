@@ -116,3 +116,121 @@ A debugging session is active.
 	Inferior 1 [process 22030] will be killed.
 
 Quit anyway? (y or n) [answered Y; input not from terminal]
+Breakpoint 1 at 0x1160
+Breakpoint 2 at 0x1172
+Breakpoint 3 at 0x11a1
+Breakpoint 4 at 0x11be
+Breakpoint 5 at 0x11c2
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000555555555160 in varianzaASM ()
+
+Breakpoint 2, 0x0000555555555172 in valor_N ()
+0x0000555555555175 in valor_N ()
+rax            0x1e                30
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+0x00005555555551a5 in varianza ()
+$1 = 15.5
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+<<<---BUCLE--->>>
+$2 = 210.25
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$3 = 392.5
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$4 = 548.75
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$5 = 681
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$6 = 791.25
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$7 = 881.5
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$8 = 953.75
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$9 = 1010
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$10 = 1052.25
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$11 = 1082.5
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$12 = 1102.75
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$13 = 1115
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$14 = 1121.25
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$15 = 1123.5
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$16 = 1123.75
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$17 = 1124
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$18 = 1126.25
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$19 = 1132.5
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$20 = 1144.75
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$21 = 1165
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$22 = 1195.25
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$23 = 1237.5
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$24 = 1293.75
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$25 = 1366
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$26 = 1456.25
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$27 = 1566.5
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$28 = 1698.75
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$29 = 1855
+
+Breakpoint 3, 0x00005555555551a1 in varianza ()
+$30 = 2037.25
+
+Breakpoint 4, 0x00005555555551be in sumEntreN ()
+<<<---FIN-BUCLE--->>>
+$31 = 2247.5
+<<<---SUMA/N:--->>>
+
+Breakpoint 5, 0x00005555555551c2 in done ()
+$32 = 74.9166641
+<<<---FIN--->>>
+A debugging session is active.
+
+	Inferior 1 [process 7642] will be killed.
+
+Quit anyway? (y or n) [answered Y; input not from terminal]

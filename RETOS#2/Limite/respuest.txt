@@ -1,0 +1,10 @@
+El valor de la función cambia pero poco a pesar que le aumentemos mas 
+y mas al n por lo tanto si n tiende a infinitio el valor de la 
+función tiende a 2.72 ya que cada vez más se hace mas preciso y 
+a su vez se aprecia como si n tiende a infinito se realizan mayores 
+iteraciones por lo tanto se comprueba el correcto funcionamiento.
+
+Además si hablamos de tiempos al hacerse mayores iteraciones como n tiende a infinito 
+el tiempo que demora cada función es mayor como se puede comprobar ahora seria mayores
+nanosegundos a comparación de un n menor, en el caso de los ejemplos sigue siendo C 
+el que tiene mayor tiempo de implementación a comparación con la función asm.
