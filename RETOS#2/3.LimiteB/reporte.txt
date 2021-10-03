@@ -1,0 +1,34 @@
+Breakpoint 1 at 0x1170
+Breakpoint 2 at 0x1182
+Breakpoint 3 at 0x119d
+Breakpoint 4 at 0x11ba
+Breakpoint 5 at 0x11d7
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000555555555170 in limiteASM ()
+
+Breakpoint 2, 0x0000555555555182 in valor_de_N ()
+0x0000555555555187 in valor_de_N ()
+$1 = 4
+
+Breakpoint 3, 0x000055555555519d in valor_de_x ()
+0x00005555555551a1 in valor_de_x ()
+$2 = 1.25
+
+Breakpoint 4, 0x00005555555551ba in exponencialBinario ()
+$3 = 1
+
+Breakpoint 4, 0x00005555555551ba in exponencialBinario ()
+$4 = 1
+
+Breakpoint 4, 0x00005555555551ba in exponencialBinario ()
+$5 = 1
+
+Breakpoint 5, 0x00005555555551d7 in done ()
+$6 = 2.44140625
+<<<---FIN--->>>
+A debugging session is active.
+
+	Inferior 1 [process 7723] will be killed.
+
+Quit anyway? (y or n) [answered Y; input not from terminal]

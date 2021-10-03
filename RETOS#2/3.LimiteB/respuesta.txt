@@ -1,0 +1,3 @@
+
+El speedUp debe variar con respecto al anterior ya que la complejidad de la iteración es menor y por ende
+disminuye el tiempo de ejecucion de cada instruccion.
